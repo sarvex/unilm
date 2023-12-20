@@ -1,5 +1,5 @@
 sklearn
-transformers==4.30.0
+transformers==4.36.0
 datasets==2.6.1
 numpy==1.22.0
 torch
